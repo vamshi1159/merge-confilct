@@ -1,2 +1,2 @@
 <h1> hello vamshi <h1>
-<h2>This is on Master<h2>
+<h2>This is on Child<h2>
